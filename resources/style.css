@@ -1,0 +1,47 @@
+html{
+  font_family:helvetica;
+}
+ul{
+  font-size: 20px;
+}
+h1{
+  font-size: 100px;
+  text-align: center;
+  font-weight: bold;
+  color: khaki;
+  background-image: url("C:/dasmotoproject/images/pattern.jpg");
+  text-transform: uppercase;
+}
+h2{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+#brushes h2{
+  background-color: mediumspringgreen;
+}
+#frames h2{
+    background-color: lightcoral;
+}
+#paints h2{
+    background-color: skyblue;
+}
+h3{
+  text-align:center;
+}
+
+figcaption{
+  color:seaGreen;
+  font-size: 20px;
+  font-weight: bold;
+}
+p{
+  font-size: 16px;
+}
+span{
+  font-weight: bold;
+  color: blue;
+}
+.image{
+
+}
